@@ -1,0 +1,27 @@
+<annotation>
+	<folder>VOC2007</folder>
+	<filename>1199759334.jpg</filename>
+	<source>
+		<database>earthmine toulouse downtown</database>
+		<annotation>earthmine labelled images</annotation>
+		<image>local</image>
+	</source>
+	<owner>
+		<flickrid>earthmine</flickrid>
+		<name>bryan</name>
+	</owner>
+	<size>
+		<width>500</width>
+		<height>375</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<status>
+		<bad>0</bad>
+		<badlayout>0</badlayout>
+		<annotatedby>-</annotatedby>
+		<checkedby>-</checkedby>
+		<segmentedby>-</segmentedby>
+		<layoutby>-</layoutby>
+	</status>
+</annotation>
